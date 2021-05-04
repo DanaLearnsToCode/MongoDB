@@ -39,5 +39,5 @@ def main():
     #ex. print all documents with the birth date 12/1/1990
     
     
-#if __name__=="__main__":
+if __name__=="__main__":
     main()
