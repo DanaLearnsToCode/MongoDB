@@ -11,6 +11,7 @@ migrate
 pbr
 Pillow
 PyGithub
+pymongo
 six
 SQLAlchemy
 sqlalchemy-migrate
