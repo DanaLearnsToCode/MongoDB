@@ -8,8 +8,7 @@ from flask import Flask, url_for, render_template, request
 app = Flask(__name__)
 
 post =  {"name": "bob",
-         "Age": "36",
-         "height": "5'11""}        
+         "Age": "36"}        
 
           
 
