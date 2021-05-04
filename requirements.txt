@@ -1,5 +1,7 @@
 decorator
+dnspython
 Flask
+Flask-PyMongo
 Flask-SQLAlchemy
 Flask-WTF
 gunicorn
